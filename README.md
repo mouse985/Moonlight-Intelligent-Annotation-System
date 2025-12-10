@@ -54,6 +54,12 @@
     pip install sam3
     ```
 
+3.  **Download Model Weights:**
+    Download `models.zip` using the link below:
+    Link: `https://pan.baidu.com/s/1hiEgesTPtFe2M1Ejawba7g?pwd=6666` (Password: 6666)
+
+    > **Note**: Extract the zip file and overwrite the files in the project root directory.
+
 ## 🚀 Usage
 
 1.  **Start the application:**
@@ -117,6 +123,13 @@
     pip install ultralytics
     pip install sam3
     ```
+
+3.  **下载模型权重:**
+    通过网盘分享的文件：models.zip 
+    链接: `https://pan.baidu.com/s/1hiEgesTPtFe2M1Ejawba7g?pwd=6666` 提取码: 6666 
+    --来自百度网盘超级会员v3的分享
+    
+    > **注释**：解压并覆盖根目录源文件即可。
 
 ## 🚀 使用指南
 
